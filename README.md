@@ -1,4 +1,4 @@
-### Hi there, My name is Daniel Marques a Full-Stack Developer  👋
+### Hi there, My name is Daniel Marques and I'm a Full-Stack Developer  👋
 
 <div align="center">
   <a href="https://github.com/devmarques7">
