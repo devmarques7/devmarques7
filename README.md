@@ -12,7 +12,7 @@
   <img alt="Daniel-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="Daniel-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
   <img alt="Daniel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="Daniel-Next" height="30" width="40" background="#ffff" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png">
+  <img alt="Daniel-Next" height="30" width="40" background="#ffff" src="https://www.jonathanmoreira.com.br/uploads/2020/12/mobile/Getting-Started-with-NextJS.jpg">
 </div>
 <div align="center">
   <br>
